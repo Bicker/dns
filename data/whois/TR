@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TR
+
+organisation: Middle East Technical University
+organisation: Department of Computer Engineering
+address:      Inonu Bulvari
+address:      Ankara  06531
+address:      Turkey
+
+contact:      administrative
+name:         Attila Ozgit
+organisation: Middle East Technical University
+organisation: Department of Computer Engineering
+address:      Inonu Bulvari
+address:      Ankara  06531
+address:      Turkey
+phone:        +90 312 210 5555
+fax-no:       +90 312 210 5544
+e-mail:       ozgit@metu.edu.tr
+
+contact:      technical
+name:         Kursat Cagiltay
+organisation: Middle East Technical University
+organisation: Computer Center
+address:      Inonu Bulvari
+address:      Ankara  06531
+address:      Turkey
+phone:        +90 312 210 3683
+fax-no:       +90 312 210 1227
+e-mail:       kursat@metu.edu.tr
+
+nserver:      NS21.NIC.TR 213.14.246.2
+nserver:      NS22.NIC.TR 213.14.246.6
+nserver:      NS3.NIC.TR 213.248.162.131
+nserver:      NS31.NIC.TR 31.210.155.2
+nserver:      NS41.NIC.TR 185.7.0.2
+nserver:      NS42.NIC.TR 185.7.0.3
+nserver:      NS91.NIC.TR 162.88.54.1 2600:2000:3002:0:0:0:0:1
+nserver:      NS92.NIC.TR 162.88.55.1 2600:2000:3003:0:0:0:0:1
+
+whois:        whois.nic.tr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.tr
+
+created:      1990-09-17
+changed:      2016-08-02
+source:       IANA
+

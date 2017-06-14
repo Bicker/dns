@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NF
+
+organisation: Norfolk Island Data Services
+address:      617 Fletcher Christian Rd.
+address:      South Pacific 2899
+address:      Norfolk Island
+
+contact:      administrative
+name:         Robert Ryan
+organisation: Norfolk Island Data Services
+address:      706 Collins Head Rd.
+address:      South Pacific 2899
+address:      Norfolk Island
+phone:        +672 3 23850
+e-mail:       nf-admin@nic.net.nf
+
+contact:      technical
+name:         Garth Miller
+organisation: CoCCA Registry Services(NZ) Limited
+address:      11a Wynyard Street
+address:      Devonport Auckland 0744
+address:      New Zealand
+phone:        64 9 446 6370
+e-mail:       noc@cocca.org.nz
+
+nserver:      A.NF.DYNTLD.NET 199.19.5.10 2001:500:92:0:0:0:0:10
+nserver:      B.NF.DYNTLD.NET 199.19.6.10 2001:500:96:0:0:0:0:10
+nserver:      NS.ANYCAST.NIC.NF 2001:500:14:6051:ad:0:0:1 204.61.216.51
+ds-rdata:     54236 8 2 DD87DD324E8360DEC8DAAF2DB771B8C52024D6CEFEB76F2B855E0FC3B8FDB7D7
+
+whois:        whois.nic.nf
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.nf
+
+created:      1996-03-18
+changed:      2015-04-02
+source:       IANA
+

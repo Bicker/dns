@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PLUS
+
+organisation: Sugar Mill, LLC
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
+address:      Bellevue, Washington 98004
+address:      United States
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Chris Cowherd
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.296.6802
+fax-no:       +1.425.671.0020
+e-mail:       chris@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     3634 8 2 FB64AB7ED29D24D400D578A2D6D2662DB4677E55399A82AA77A2EC38D5824113
+ds-rdata:     3634 8 1 2C0790747D6F1CFFBE255FA717E6E8F7743042F7
+
+whois:        whois.donuts.co
+
+status:       ACTIVE
+remarks:      Registration information: http://www.donuts.co/
+
+created:      2015-03-12
+changed:      2017-05-10
+source:       IANA
+

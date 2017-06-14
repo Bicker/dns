@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       网店
+domain-ace:   XN--HXT814E
+
+organisation: Zodiac Taurus Ltd.
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District, Beijing, 100088
+address:      China
+
+contact:      administrative
+name:         CEO
+organisation: Zodiac Holdings Ltd
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088
+address:      China
+phone:        +86.1082961219
+e-mail:       ceo@nic.wang
+
+contact:      technical
+name:         VP
+organisation: Zodiac Holdings Ltd
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District, Beijing, 100088
+address:      China
+phone:        +86.1082961219
+e-mail:       vp@nic.wang
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     50461 8 2 25f61ae97c609c8d7e3eb99efba0ed868a0262ee21b69425893f707a18a51adc
+
+whois:        whois.nic.xn--hxt814e
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.wang
+
+created:      2014-11-20
+changed:      2016-09-03
+source:       IANA
+

@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KN
+
+organisation: Ministry of Finance, Sustainable Development Information & Technology
+address:      Church Street
+address:      P.O. Box 186
+address:      Saint Kitts And Nevis
+
+contact:      administrative
+name:         Adviser of National ICT Center
+organisation: National ICT Center
+address:      No. 3 C.A. Paul Southwell Industrial Site
+address:      Saint Kitts And Nevis
+phone:        +1 869 4658582
+fax-no:       +1 869 4650610
+e-mail:       admin@knnic.kn
+
+contact:      technical
+name:         Nai-Wen Hsu
+organisation: Taiwan Network Information Center (TWNIC)
+address:      4F-2, No. 9
+address:      Roosevelt Road
+address:      Section 2
+address:      Taipei  100
+address:      Taiwan, Province Of China
+phone:        +886 2 2341 1313 ext. 500
+fax-no:       +886 2 2396 8832
+e-mail:       snw@twnic.net.tw
+
+nserver:      DYNTLD-1.NIC.KN 162.88.52.5 2600:2000:3000:0:0:0:0:5
+nserver:      DYNTLD-2.NIC.KN 162.88.53.5 2600:2000:3001:0:0:0:0:5
+nserver:      PCH.NIC.KN 2001:500:14:6109:ad:0:0:1 204.61.216.109
+
+whois:        whois.nic.kn
+
+status:       ACTIVE
+
+created:      1991-09-03
+changed:      2016-01-15
+source:       IANA
+

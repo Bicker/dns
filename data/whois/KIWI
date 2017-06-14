@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KIWI
+
+organisation: DOT KIWI LIMITED
+address:      Level 2, 65 Upper Queen St Auckland
+address:      New Zealand
+
+contact:      administrative
+name:         Angus Richardson
+organisation: DOT KIWI LIMITED
+address:      PO Box 8207, Symonds St, Auckland 1150
+address:      New Zealand
+phone:        +6493070040
+e-mail:       info@hello.kiwi
+
+contact:      technical
+name:         Don Slaunwhite
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      ￼
+address:      Canada
+phone:        +16132375335
+fax-no:       +16132370534
+e-mail:       support@fury.ca
+
+nserver:      E.NS.NIC.KIWI 162.219.54.254 2620:10a:80eb:0:0:0:0:254
+nserver:      F.NS.NIC.KIWI 162.219.55.254 2620:10a:80ec:0:0:0:0:254
+ds-rdata:     18002 8 2 a9fb15d8951b9bca9a50b913240f679046a5b1d949c35969e23d46e042e3bcf9
+
+whois:        whois.nic.kiwi
+
+status:       ACTIVE
+remarks:      Registration information: http://hello.kiwi
+
+created:      2013-11-25
+changed:      2017-03-08
+source:       IANA
+

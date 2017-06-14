@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ไทย
+domain-ace:   XN--O3CW4H
+
+organisation: Thai Network Information Center Foundation
+address:      159 Thanon Phichai
+address:      Khwaeng Thanon Nakhon Chaisi
+address:      Khet Dusit
+address:      Bangkok  10300
+address:      Thailand
+
+contact:      administrative
+name:         Kanchana Kanchanasut
+organisation: Thai Network Information Center Foundation
+address:      159 Thanon Phichai
+address:      Khwaeng Thanon Nakhon Chaisi
+address:      Khet Dusit
+address:      Bangkok  10300
+address:      Thailand
+phone:        +66 2 244 8261
+fax-no:       +66 2 244 8264
+e-mail:       kk@cs.ait.ac.th
+
+contact:      technical
+name:         Pensri Arunwatanamongkol
+organisation: Thai Network Information Center Foundation
+address:      159 Thanon Phichai
+address:      Khwaeng Thanon Nakhon Chaisi
+address:      Khet Dusit
+address:      Bangkok  10300
+address:      Thailand
+phone:        +66 2 564 8034
+fax-no:       +66 2 564 8033
+e-mail:       pensri@thnic.or.th
+
+nserver:      A.THAINS.CO.TH 122.155.23.64 2001:c38:2000:183:0:0:0:30
+nserver:      B.THAINS.CO.TH 2001:c00:4618:3000:0:0:0:30 203.159.64.64
+nserver:      NS.THNIC.NET 202.28.0.1
+ds-rdata:     42580 8 2 FF4DE3F7DB4A4372D27970D4409E6D7EEFAB8D4FB20D53DACF8D1473E8B950D8
+
+whois:        whois.thnic.co.th
+
+status:       ACTIVE
+remarks:      Registration information: http://www.thnic.co.th
+
+created:      2010-08-19
+changed:      2016-02-13
+source:       IANA
+

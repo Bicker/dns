@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REISE
+
+organisation: Foggy Way, LLC
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 350
+address:      Bellevue, Washington 98004
+address:      United States
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 283 8248
+fax-no:       +1 425 223 5351
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Chris Cowherd
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 296 6802
+fax-no:       +1 425 223 5351
+e-mail:       chris@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     9484 8 1 708E9B5216F04DE3F1233B8F6D5B0E32CF84DF74
+ds-rdata:     9484 8 2 11DF8B7A0EE1D678F0D63DDBF2F1367BB3A346AE3AC5A2DB1220AB3F5A449FCF
+
+whois:        whois.nic.reise
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.reise
+
+created:      2014-05-15
+changed:      2017-05-10
+source:       IANA
+

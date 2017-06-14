@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NO
+
+organisation: UNINETT Norid A/S
+address:      Abelsgate 5
+address:      Trondheim  N-7465
+address:      Norway
+
+contact:      administrative
+name:         Hilde Thunem
+organisation: UNINETT Norid A/S
+address:      Postboks 4769 Sluppen
+address:      Trondheim  NO-7465
+address:      Norway
+phone:        +47 73 55 79 00
+fax-no:       +47 73 55 79 99
+e-mail:       hilde.thunem@uninett.no
+
+contact:      technical
+name:         Jarle Greipsland
+organisation: UNINETT Norid A/S
+address:      Postboks 4769 Sluppen
+address:      Trondheim  NO-7465
+address:      Norway
+phone:        +47 73 55 79 00
+fax-no:       +47 73 55 79 99
+e-mail:       jarle@uninett.no
+
+nserver:      I.NIC.NO 194.146.106.6
+nserver:      NJET.NORID.NO 156.154.101.12
+nserver:      NOT.NORID.NO 156.154.100.12 2001:502:ad09:0:0:0:0:12
+nserver:      X.NIC.NO 128.39.8.40
+nserver:      Y.NIC.NO 193.75.4.22 2001:8c0:8200:1:0:0:0:2
+nserver:      Z.NIC.NO 158.38.8.133 2001:700:0:52d:158:38:8:133
+ds-rdata:     29471 8 2 915ede46ea5324ff86b11c9ed4e9c814ae8c462c165e5380a3999d90418841da
+
+whois:        whois.norid.no
+
+status:       ACTIVE
+remarks:      Registration information: http://www.norid.no
+
+created:      1987-03-17
+changed:      2015-04-16
+source:       IANA
+

@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GOLDPOINT
+
+organisation: YODOBASHI CAMERA CO.,LTD.
+address:      20-1 3-chome Kita-Shinjyuku Shinjyuku-ku, Tokyo - 169-8585 JP
+address:      Japan
+
+contact:      administrative
+name:         Representative Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo - 1508512 JP
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo - 1508512 JP
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     31300 8 2 78b4e588f4b4ab947adc51f6c2e16c16b1cf647ef22c940238c1998e8f3e58a1
+
+whois:        whois.nic.goldpoint
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.goldpoint
+
+created:      2015-02-13
+changed:      2016-12-28
+source:       IANA
+

@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SR
+
+organisation: Telesur
+address:      Heiligenweg 14
+address:      P.O. Box 1839
+address:      Paramaribo
+address:      Suriname
+
+contact:      administrative
+name:         Henry M. Nobibux
+organisation: Telesur
+address:      Heiligenweg 14
+address:      P.O. Box 1839
+address:      Paramaribo
+address:      Suriname
+phone:        +597 8811699
+fax-no:       +597 425333
+e-mail:       henry.nobibux@telesur.sr
+
+contact:      technical
+name:         August Imang
+organisation: Telesur
+address:      Heiligenweg 14
+address:      P.O. Box 1839
+address:      Paramaribo
+address:      Suriname
+phone:        +597 8809299
+fax-no:       +597 404992
+e-mail:       august.imang@telesur.sr
+
+nserver:      NS1.SR.NET 200.1.159.148
+nserver:      NS2.SR.NET 200.2.162.30
+
+status:       ACTIVE
+remarks:      Registration information: http://www.register.sr/
+
+created:      1991-09-03
+changed:      2010-07-06
+source:       IANA
+

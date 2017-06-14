@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       网址
+domain-ace:   XN--SES554G
+
+organisation: KNET Co., Ltd
+address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      China
+
+contact:      administrative
+name:         Vice General Manager
+organisation: KNET Co., Ltd.
+address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      China
+phone:        +86-18910873599
+fax-no:       n/a
+e-mail:       wangzhi-admin@knet.cn
+
+contact:      technical
+name:         Technical Director
+organisation: KNET Co., Ltd.
+address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      China
+phone:        86-10-82184037
+fax-no:       86-10-62506502
+e-mail:       wangzhi-tech@knet.cn
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     55501 8 2 B94999B1AF305C9E3AAD1B2B49EE9A0E9D3C1AA42EA4B543575EF3A6B2ABA258
+
+whois:        whois.registry.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.knet.cn/domain/wagnzhi/
+
+created:      2014-03-13
+changed:      2017-05-25
+source:       IANA
+

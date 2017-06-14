@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MONEY
+
+organisation: Outer McCook, LLC
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
+address:      Bellevue, Washington 98004
+address:      United States
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Chris Cowherd
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.296.6802
+fax-no:       +1.425.671.0020
+e-mail:       chris@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     6652 8 2 93212B52E72F51A36D2B877967265870D5BFADA902594ED348BD548168132A8F
+ds-rdata:     6652 8 1 D7E62ABED8C6EC60EE827E9EEFC683C7F92AE1F0
+
+whois:        whois.donuts.co
+
+status:       ACTIVE
+remarks:      Registration information: http://donuts.co/
+
+created:      2014-11-20
+changed:      2017-05-09
+source:       IANA
+

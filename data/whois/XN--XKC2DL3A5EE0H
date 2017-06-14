@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       இந்தியா
+domain-ace:   XN--XKC2DL3A5EE0H
+
+organisation: National Internet Exchange of India
+address:      Regd. Off.: Flat No. 6B, 6th Floor, Uppals M6 Plaza,
+address:      Jasola District Centre, New Delhi 110025
+address:      India
+
+contact:      administrative
+name:         Rajiv Kumar, Systems Analyst
+organisation: National Internet Exchange of India
+address:      Regd. Off.: Flat No. 6B, 6th Floor, Uppals M6 Plaza,
+address:      Jasola District Centre, New Delhi 110025
+address:      India
+phone:        +91-11-48202011
+fax-no:       +91-11-48202013
+e-mail:       registry@nixi.in
+
+contact:      technical
+name:         Rajiv Kumar, Systems Analyst
+organisation: National Internet Exchange of India
+address:      Regd. Off.: Flat No. 6B, 6th Floor, Uppals M6 Plaza,
+address:      Jasola District Centre, New Delhi 110025
+address:      India
+phone:        +91-11-48202011
+fax-no:       +91-11-48202013
+e-mail:       domaintech@registry.in
+
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A1.IN.AFILIAS-NST.IN 115.249.164.142 2001:4528:fff:13:0:0:0:142
+nserver:      A2.IN.AFILIAS-NST.INFO 199.249.117.1 2001:500:45:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B1.IN.AFILIAS-NST.IN 180.179.215.70 2401:8800:411:8:0:0:0:70
+nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+ds-rdata:     61881 7 1 5d11cf7974c61c64177bbfaad22bfd2cb5cae324
+ds-rdata:     61881 7 2 0f4901f2d832580eed2945b42a6510c164b6fd8545c290a9be50ef5c136c82a2
+
+status:       ACTIVE
+
+created:      2011-02-05
+changed:      2016-08-13
+source:       IANA
+

@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       餐厅
+domain-ace:   XN--IMR513N
+
+organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong.
+address:      China
+
+contact:      administrative
+name:         Policy Director
+organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong.
+address:      China
+phone:        13751881539
+e-mail:       huiying.liang@huyi.cn
+
+contact:      technical
+name:         Policy Director
+organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong.
+address:      China
+phone:        13751881539
+e-mail:       huiying.liang@huyi.cn
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     9602 8 2 0051225bff1a9547b468da4819971252a96c800a929d006f3a9c5af2c79d3a1e
+
+status:       ACTIVE
+
+created:      2015-05-08
+changed:      2016-10-25
+source:       IANA
+

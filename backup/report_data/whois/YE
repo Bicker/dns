@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       YE
+
+organisation: TeleYemen
+address:      P.O.Box 168
+address:      26th September Street
+address:      Sana'a
+address:      Yemen
+
+contact:      administrative
+name:         M. Abdulkader, Manager Enhanced Services
+organisation: TeleYemen
+address:      P.O.Box 168
+address:      26th September Street
+address:      Sana'a
+address:      Yemen
+phone:        +967 777009416
+fax-no:       +967 1 7523222
+e-mail:       ghaily@y.net.ye
+
+contact:      technical
+name:         Ahmed Al-Qaifi, IT & Data Network Mgr.
+organisation: TeleYemen
+address:      P.O.Box 168
+address:      26th September Street
+address:      Sana'a
+address:      Yemen
+phone:        +967 777290146
+fax-no:       +967 1 7521406
+e-mail:       a.alqaifi@teleyemen.com.ye
+
+nserver:      NS1.YEMEN.NET.YE 65.162.184.33
+nserver:      NS2.YEMEN.NET.YE 65.162.184.34
+nserver:      SAH1.YE 195.94.0.34
+nserver:      SAH2.YE 195.94.0.35
+
+status:       ACTIVE
+
+created:      1996-08-19
+changed:      2011-01-12
+source:       IANA
+

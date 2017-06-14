@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      D.CA-SERVERS.CA 199.19.4.1 2001:500:97:0:0:0:0:1
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+ds-rdata:     9481 8 2 da9d096b5cd6e1c5baf705489d05634caa18854eb666d090b06de9290eaf7383
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2017-05-10
+source:       IANA
+

@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DNP
+
+organisation: Dai Nippon Printing Co., Ltd.
+address:      1-1-1, Ichigaya-Kagacho, Shinjuku-ku, Tokyo, 162-8001
+address:      Japan
+
+contact:      administrative
+name:         Representative Director and CEO
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
+phone:        +81 3 5456 1601
+fax-no:       +81 3 3780 5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
+phone:        +81 3 5456 1601
+fax-no:       +81 3 3780 5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     6644 8 2 ec79dc09481a6579f8716e38d020b76c556a230e63a2db3eb1a6bc1aaccaf2d1
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/
+
+created:      2014-02-27
+changed:      2017-03-30
+source:       IANA
+

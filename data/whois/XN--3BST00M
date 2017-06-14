@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       集团
+domain-ace:   XN--3BST00M
+
+organisation: Eagle Horizon Limited
+address:      Scotia Centre, 4th Floor, P.O.Box2804,George Town, Grand Cayman KY1-112, Cayman Islands
+address:      Cayman Islands
+
+contact:      administrative
+name:         CEO
+organisation: Eagle Horizon Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      China
+phone:        +86 20 6622 2813
+fax-no:       +86 20 6622 2813
+e-mail:       ceo@yu-wei.cn
+
+contact:      technical
+name:         VP
+organisation: Eagle Horizon Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      China
+phone:        +86 20 6622 2813
+fax-no:       +86 20 6622 2813
+e-mail:       technology@yu-wei.cn
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     28189 8 2 4bb589ac2030826343e404b13602c97a8526342b06bef00ad9d151a0ecf62a8e
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.newgtld.cn
+
+created:      2013-12-12
+changed:      2016-09-03
+source:       IANA
+

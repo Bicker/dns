@@ -1,0 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NR
+
+organisation: CENPAC NET
+address:      Civic Centre
+address:      Aiwo District
+address:      Nauru
+
+contact:      administrative
+name:         Criden Appi
+organisation: Government of the Republic of Nauru
+address:      Civic Centre
+address:      Aiwo District
+address:      Nauru
+phone:        +674 5573086
+e-mail:       criden.appi@naurugov.nr
+
+contact:      technical
+name:         Director for ICT
+organisation: Government of the Republic of Nauru
+address:      Yaren District
+address:      Nauru
+phone:        +674 5573233
+e-mail:       management@cenpac.net.nr
+
+nserver:      DNS1.CENPAC.NET.NR 203.98.225.9
+nserver:      NRWEB.CENPAC.NET.NR 203.98.224.66
+nserver:      NS1.NET.REACH.COM 134.159.2.140
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cenpac.net.nr
+
+created:      1998-03-30
+changed:      2014-11-12
+source:       IANA
+

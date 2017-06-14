@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FO
+
+organisation: FO Council
+address:      Tinghúsvegur 57
+address:      110 Tórshavn
+address:      Faroe Islands
+
+contact:      administrative
+name:         Guðrun Poulsen
+organisation: FO Council
+address:      Tinghúsvegur 57
+address:      110 Tórshavn
+address:      Faroe Islands
+phone:        +298 550050
+e-mail:       gudrun@nic.fo
+
+contact:      technical
+name:         FO-Umsitingin
+organisation: FO-Umsitingin
+address:      Tinghúsvegur 57
+address:      Faroe Islands
+phone:        +298 898900
+e-mail:       nic@nic.fo
+
+nserver:      ARNHEM.NIC.FO 193.176.144.24 2a00:d78:0:102:193:176:144:24
+nserver:      COPENHAGEN.NIC.FO 193.163.102.12 2a01:630:0:40:0:0:0:12
+nserver:      FRANKFURT.NIC.FO 81.91.161.88
+nserver:      PCH.NIC.FO 2001:500:14:6065:ad:0:0:1 204.61.216.65
+ds-rdata:     41527 8 2 6E7925D8D6F243EF35381231B955528F25087DBF3E61CC5FCBCFE72948D0470B
+
+whois:        whois.nic.fo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.fo/
+
+created:      1993-05-14
+changed:      2017-01-19
+source:       IANA
+

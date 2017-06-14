@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DK
+
+organisation: Dansk Internet Forum
+address:      Kalvebod Brygge 45, 3rd Floor
+address:      Copenhagen V  DK-1560
+address:      Denmark
+
+contact:      administrative
+name:         DK Hostmaster Administrative Contact
+organisation: DK Hostmaster A/S
+address:      Kalvebod Brygge 45, 3rd Floor
+address:      Copenhagen V  DK-1560
+address:      Denmark
+phone:        +45 33 64 60 60
+fax-no:       +45 33 64 60 66
+e-mail:       tld2015admin@dk-hostmaster.dk
+
+contact:      technical
+name:         DK Hostmaster Technical Contact
+organisation: DK Hostmaster A/S
+address:      Kalvebod Brygge 45, 3rd Floor
+address:      Copenhagen V  DK-1560
+address:      Denmark
+phone:        +45 33 64 60 60
+fax-no:       +45 33 64 60 66
+e-mail:       tld2015tech@dk-hostmaster.dk
+
+nserver:      A.NIC.DK 212.88.78.122
+nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
+nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
+nserver:      L.NIC.DK 192.38.7.242 2001:7f8:1f:0:0:1835:242:0
+nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
+nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
+ds-rdata:     25055 8 2 9cfc79a705a6fd1ec2fe6d81faad85ebbda8eb30eb7d4c7f3dea09587f0844f1
+
+whois:        whois.dk-hostmaster.dk
+
+status:       ACTIVE
+remarks:      Registration information: https://www.dk-hostmaster.dk/
+
+created:      1987-07-14
+changed:      2017-02-22
+source:       IANA
+

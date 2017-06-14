@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SU
+
+organisation: Russian Institute for Development of Public Networks
+organisation: (ROSNIIROS)
+address:      1, Kurchatov Sq.
+address:      Moscow  123182
+address:      Russian Federation
+
+contact:      administrative
+name:         Alexei P. Platonov
+organisation: Russian Institute for Public Networks
+address:      1 Kurchatov Square
+address:      Moscow  123182
+address:      Russian Federation
+phone:        +7 499 702 83 43
+fax-no:       +7 499 702 83 43
+e-mail:       su-adm@fid.su
+
+contact:      technical
+name:         Technical Center of Internet
+organisation: Technical Center of Internet
+address:      8, Zoologicheskaya str
+address:      Moscow  123242
+address:      Russian Federation
+phone:        +7 495 737 92 95
+fax-no:       +7 495 737 06 84
+e-mail:       ru-tech@tcinet.ru
+
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
+nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     22111 8 2 3363C13346E0C9C511526EDFFC756C3701FB35A7EFAD5775BB6C13D6FC2BBA01
+
+whois:        whois.tcinet.ru
+
+status:       ACTIVE
+
+created:      1990-09-19
+changed:      2016-05-13
+source:       IANA
+

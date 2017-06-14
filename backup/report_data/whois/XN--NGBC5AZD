@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       شبكة
+domain-ace:   XN--NGBC5AZD
+
+organisation: International Domain Registry Pty. Ltd.
+address:      Level 8, 10 Queens Road
+address:      Melbourne, Victoria 3004
+address:      Australia
+
+contact:      administrative
+name:         Director, Product Management
+organisation: Neustar
+address:      PO Box 33125
+address:      Melbourne, Victoria 3004
+address:      Australia
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       shabaka@ariservices.com
+
+contact:      technical
+name:         Manager - IT Support
+organisation: Neustar
+address:      PO Box 33125
+address:      Melbourne, Victoria 3004
+address:      Australia
+address:      Australia
+phone:        +61 3 9090 1700
+fax-no:       +61 3 9866 1970
+e-mail:       gtldsupport@ariservices.com
+
+nserver:      A.NIC.XN--NGBC5AZD 2001:dcd:1:0:0:0:0:3 37.209.192.3
+nserver:      B.NIC.XN--NGBC5AZD 2001:dcd:2:0:0:0:0:3 37.209.194.3
+nserver:      C.NIC.XN--NGBC5AZD 2001:dcd:3:0:0:0:0:3 37.209.196.3
+nserver:      D.NIC.XN--NGBC5AZD 2001:dcd:4:0:0:0:0:3 37.209.198.3
+ds-rdata:     58699 8 2 09545CA064C8792154FACDAAEC7795850D27D052D743546CB90CA9B6572CEB99
+ds-rdata:     58699 8 1 7B9A90E5A2B290341A2FD161BB5F4C6AAF5DA44F
+
+whois:        whois.nic.xn--ngbc5azd
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotshabaka.com
+
+created:      2013-10-21
+changed:      2015-12-17
+source:       IANA
+

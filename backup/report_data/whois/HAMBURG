@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HAMBURG
+
+organisation: Hamburg Top-Level-Domain GmbH
+address:      Neuer Wall 10, Hamburg, 20354
+address:      Germany
+
+contact:      administrative
+name:         Oliver Joachim Sueme
+organisation: Hamburg Top-Level-Domain GmbH
+address:      Neuer Wall 10, Hamburg, 20354
+address:      Germany
+phone:        +49 40 27806736
+fax-no:       +49 40 380 89 810
+e-mail:       os@dothamburg.de
+
+contact:      technical
+name:         Martin Schlicksbier
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8, 5020 Salzburg
+address:      Austria
+phone:        +43 662 2345 48730
+fax-no:       +43 662 2345 4829
+e-mail:       iana@tld-box.at
+
+nserver:      A.DNS.NIC.HAMBURG 194.0.25.21 2001:678:20:0:0:0:0:21
+nserver:      M.DNS.NIC.HAMBURG 194.0.26.10 2001:67c:10e0:0:0:0:0:10
+nserver:      N.DNS.NIC.HAMBURG 194.0.24.10 2001:678:24:0:0:0:0:10
+ds-rdata:     26479 8 2 4a48334ef87d7fc156e886e5a2b2682fcf0679ed6fcab59c85deb0fc52468cb2
+ds-rdata:     32630 8 2 f836a55bec1b4a853bf9d80cd5c5c2e40313659aa8bfae43f55dddc9d5c31af1
+
+whois:        whois.nic.hamburg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.hamburg
+
+created:      2014-05-22
+changed:      2017-03-07
+source:       IANA
+

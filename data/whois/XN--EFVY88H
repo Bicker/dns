@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       新闻
+domain-ace:   XN--EFVY88H
+
+organisation: Xinhua News Agency Guangdong Branch 新华通讯社广东分社
+address:      No.1 Linhexi Road, Tianhe District
+address:      Guangzhou City
+address:      Guangdong Province
+address:      China
+
+contact:      administrative
+name:         CEO
+organisation: Xinhua News Agency Guangdong Branch
+address:      3302 International Trade Center
+address:      No.1 Linhe Xi Road
+address:      Guangzhou, Guangdong Province 510610
+address:      China
+phone:        +86 20 6622 2543
+fax-no:       +86 20 6622 2813
+e-mail:       registry@xinhuagd.cn
+
+contact:      technical
+name:         CTO
+organisation: Xinhua News Agency Guangdong Branch
+address:      3302 International Trade Center
+address:      No.1 Linhe Xi Road
+address:      Guangzhou, Guangdong Province 510610
+address:      China
+phone:        +86 20 6622 2543
+fax-no:       +86 20 6622 2813
+e-mail:       technology@xinhuagd.cn
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     60047 8 2 80438ddfbe043407564feed63b7d61fd85313ea3a66b325108bc75607f2e61bf
+
+whois:        whois.nic.xn--efvy88h
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gd.xinhua.org
+
+created:      2015-08-06
+changed:      2016-10-04
+source:       IANA
+

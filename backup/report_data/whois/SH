@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SH
+
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      Saint Helena, Ascension And Tristan Da Cunha
+
+contact:      administrative
+name:         Chief Secretary
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      Saint Helena, Ascension And Tristan Da Cunha
+fax-no:       +290 2598
+e-mail:       administrator@nic.sh
+
+contact:      technical
+name:         Administrator
+organisation: ICB Plc.
+address:      9 Queens Road
+address:      Bournemouth Dorset BH2 6BA
+address:      United Kingdom
+fax-no:       +44 1225 580 550
+e-mail:       admin@icb.co.uk
+
+nserver:      NS-A1.SH 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      NS-A2.SH 194.0.2.1 2001:678:5:0:0:0:0:1
+nserver:      NS-A3.SH 74.116.178.1
+nserver:      NS-A4.SH 74.116.179.1
+nserver:      NS-D1.SH 2607:feb8:0:0:0:0:5:6 64.251.31.178
+nserver:      NS-L1.SH 2001:470:1f1d:244:0:0:0:57 80.249.100.57
+nserver:      NS-Y1.SH 2001:470:1f07:d0b:0:0:0:130 91.208.95.130
+ds-rdata:     6040 8 2 AB4FEB07A4A5C297A747B7C0CC0616401A3BF6D658AF8408F0207FFFD4B4A57B
+ds-rdata:     55297 8 1 59e1077efcf663d4e2b3db25a170c735786793ef
+ds-rdata:     55297 8 2 ba339ad6e081dad292a3f473cbdd5adc53a0222769a7c6125f506dd6a813787f
+
+whois:        whois.nic.sh
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.sh/
+
+created:      1997-09-23
+changed:      2017-05-15
+source:       IANA
+

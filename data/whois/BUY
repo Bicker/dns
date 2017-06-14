@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BUY
+
+organisation: Amazon Registry Services, INC
+address:      535 Terry Avenue North
+address:      Seattle, WA 98109
+address:      United States
+
+contact:      administrative
+name:         Stacy King
+organisation: Amazon Registry Services, Inc.
+address:      535 Terry Avenue North
+address:      Seattle, WA 98109
+address:      United States
+phone:        +1 206.740.8515
+fax-no:       +1 206.266.1350
+e-mail:       buy-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.BUY 156.154.144.206 2610:a1:1071:0:0:0:0:ce
+nserver:      NS2.DNS.NIC.BUY 156.154.145.206 2610:a1:1072:0:0:0:0:ce
+nserver:      NS3.DNS.NIC.BUY 156.154.159.206 2610:a1:1073:0:0:0:0:ce
+nserver:      NS4.DNS.NIC.BUY 156.154.156.206 2610:a1:1074:0:0:0:0:ce
+nserver:      NS5.DNS.NIC.BUY 156.154.157.206 2610:a1:1075:0:0:0:0:ce
+nserver:      NS6.DNS.NIC.BUY 156.154.158.206 2610:a1:1076:0:0:0:0:ce
+ds-rdata:     18204 7 2 45DBB359B2C47BD51DA14AC518F34FE289298B64324D277E4F8C7C90AB1A6644
+ds-rdata:     18204 7 1 8551D4F0DEFE003DB9A3398AB6C5211F2174371C
+ds-rdata:     37087 8 1 6A8196E5CEDEFD88983AE0AA459440A22E8AD4C4
+ds-rdata:     37087 8 2 B375DB69E9947E8CB448AA8618E8E6DB87361989DA44B7DAC317A646C594975D
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://amazonregistry.com
+
+created:      2015-11-20
+changed:      2017-05-10
+source:       IANA
+

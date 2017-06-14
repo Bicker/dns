@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       XXX
+
+organisation: ICM Registry LLC
+address:      PO Box 30129
+address:      Palm Beach Gardens Florida 33420
+address:      United States
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: ICM Registry LLC
+address:      PO Box 30129
+address:      Palm Beach Gardens Florida 33420
+address:      United States
+phone:        +1 877 809 3182
+fax-no:       +1 877 809 3183
+e-mail:       tfarrow@icmregistry.com
+
+contact:      technical
+name:         CTO
+organisation: ICM Registry LLC
+address:      PO Box 30129
+address:      Palm Beach Gardens Florida 33420
+address:      United States
+phone:        +1 877 809 3182
+fax-no:       +1 877 809 3183
+e-mail:       lbay@icmregistry.com
+
+nserver:      A0.XXX.AFILIAS-NST.INFO 199.115.152.1 2001:500:a0:0:0:0:0:1
+nserver:      A2.XXX.AFILIAS-NST.INFO 199.115.156.1 2001:500:a4:0:0:0:0:1
+nserver:      B0.XXX.AFILIAS-NST.ORG 199.115.153.1 2001:500:a1:0:0:0:0:1
+nserver:      B2.XXX.AFILIAS-NST.ORG 199.115.157.1 2001:500:a5:0:0:0:0:1
+nserver:      C0.XXX.AFILIAS-NST.INFO 199.115.154.1 2001:500:a2:0:0:0:0:1
+nserver:      D0.XXX.AFILIAS-NST.ORG 199.115.155.1 2001:500:a3:0:0:0:0:1
+ds-rdata:     50386 7 1 c7dbecbc434d3a3455e9e6f0b971b1ac6a2bab10
+ds-rdata:     50386 7 2 10a34e6d723755e2d605be1490316d214d41909e9414bf069dd0c6afe03c2e73
+
+whois:        whois.nic.xxx
+
+status:       ACTIVE
+remarks:      Registration information: http://www.icmregistry.com/
+
+created:      2011-04-15
+changed:      2015-06-16
+source:       IANA
+

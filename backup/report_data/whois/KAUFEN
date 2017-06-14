@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KAUFEN
+
+organisation: United TLD Holdco Ltd.
+address:      One Clarendon Row
+address:      Dublin 2
+address:      Ireland
+
+contact:      administrative
+name:         Jeff Eckhaus
+organisation: United TLD Holdco Ltd.
+address:      5808 Lake Washington Blvd. NE
+address:      Suite 300
+address:      Kirkland WA 98033
+address:      United States
+phone:        425-298-2607
+e-mail:       jeff@unitedtld.com
+
+contact:      technical
+name:         Wayne MacLaurin
+organisation: United TLD Holdco Ltd.
+address:      5808 Lake Washington Blvd. NE
+address:      Suite 300
+address:      Kirkland WA 98033
+address:      United States
+phone:        425-298-2260
+e-mail:       wayne@unitedtld.com
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     33922 8 1 71553BFF8F06AD832D35C9D730E112426D73A8C7
+ds-rdata:     33922 8 2 61F8BC2454934CD1EACED656EA6432111CB71E4F81FDCED22165F302BF718F59
+
+whois:        whois.unitedtld.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.unitedtld.com
+
+created:      2013-12-19
+changed:      2015-06-11
+source:       IANA
+

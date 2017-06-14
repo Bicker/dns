@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MINI
+
+organisation: Bayerische Motoren Werke Aktiengesellschaft
+address:      Petuelring 130
+address:      80809 Munich
+address:      Germany
+
+contact:      administrative
+name:         Senior Legal Counsel
+organisation: Bayerische Motoren Werke Aktiengesellschaft
+address:      Petuelring 130
+address:      80809 Munich
+address:      Germany
+phone:        +49.8938232623
+fax-no:       +49.8938233050
+e-mail:       domains@bmw.de
+
+contact:      technical
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396251
+fax-no:       +49.68949396250
+e-mail:       icann@ksregistry.com
+
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+ds-rdata:     60569 8 2 3efed2120f07d3c519e4ec08cfeeb104bb117d500c7a656226d891bd101c497c
+
+whois:        whois.ksregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.mini.com
+
+created:      2014-06-05
+changed:      2017-01-28
+source:       IANA
+

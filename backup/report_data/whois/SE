@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SE
+
+organisation: The Internet Infrastructure Foundation
+address:      Box 92073
+address:      Stockholm  SE-120 07
+address:      Sweden
+
+contact:      administrative
+name:         SE Administrative Contact
+organisation: The Internet Infrastructure Foundation
+address:      Box 92073
+address:      Stockholm SE-120 07
+address:      Sweden
+phone:        +46 8 452 35 00
+fax-no:       +46 8 452 35 02
+e-mail:       registry@iis.se
+
+contact:      technical
+name:         SE Technical Contact
+organisation: The Internet Infrastructure Foundation
+address:      Box 92073
+address:      Stockholm SE-120 07
+address:      Sweden
+phone:        +46 8 452 35 00
+fax-no:       +46 8 452 35 02
+e-mail:       hostmaster@iis.se
+
+nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:0301:0:0:0:53
+nserver:      B.NS.SE 192.36.133.107 2001:67c:254c:301:0:0:0:53
+nserver:      C.NS.SE 192.36.135.107 2001:67c:2554:301:0:0:0:53
+nserver:      D.NS.SE 81.228.8.16
+nserver:      E.NS.SE 81.228.10.57
+nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
+nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
+nserver:      I.NS.SE 194.146.106.22 2001:67c:1010:5:0:0:0:53
+nserver:      J.NS.SE 199.254.63.1 2001:500:2c:0:0:0:0:1
+nserver:      X.NS.SE 2001:67c:124c:e000:0:0:0:4 213.108.25.4
+ds-rdata:     59747 5 2 44388b3de9a22cafa8a12883f60a0f984472d0dfef0f63ed59a29be018658b28
+
+whois:        whois.iis.se
+
+status:       ACTIVE
+remarks:      Registration information: https://www.iis.se
+
+created:      1986-09-04
+changed:      2017-05-05
+source:       IANA
+

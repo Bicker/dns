@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       مليسيا
+domain-ace:   XN--MGBX4CD0AB
+
+organisation: MYNIC Berhad
+address:      Level 3, Block C, Mines Waterfront
+address:      Business Park, No. 3, Jalan Tasik, Mines Resort City
+address:      Seri Kembangan Selangor 43300
+address:      Malaysia
+
+contact:      administrative
+name:         CEO
+organisation: MYNIC Berhad
+address:      Level 3, Block C, Mines Waterfront
+address:      Business Park, No. 3, Jalan Tasik, Mines Resort City
+address:      Seri Kembangan Selangor 43300
+address:      Malaysia
+phone:        +603 8943 5510
+fax-no:       +603 8943 5520
+e-mail:       dnsadmin@mynic.my
+
+contact:      technical
+name:         CEO
+organisation: MYNIC Berhad
+address:      Level 3, Block C, Mines Waterfront
+address:      Business Park, No. 3, Jalan Tasik, Mines Resort City
+address:      Seri Kembangan Selangor 43300
+address:      Malaysia
+phone:        +603 8943 5510
+fax-no:       +603 8943 5520
+e-mail:       dnsadmin@mynic.my
+
+nserver:      A.MYNIC.NET.MY 2401:b000:602:1001:0:0:0:11 49.236.194.202
+nserver:      A1.MYNIC.MY 202.171.47.204
+nserver:      C.MYNIC.NET.MY 103.44.108.2
+nserver:      D.MYNIC.NET.MY 103.44.108.3
+nserver:      NS-MY.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
+nserver:      NS30.CDNS.NET 194.0.1.30 2001:678:4:0:0:0:0:1e
+ds-rdata:     3498 8 2 0562723A20DF271476FE5595D42FCC3F1D5540E12648AC3144E45CCCAEE97735
+ds-rdata:     3498 8 1 57691C29051080421037C3F0F190FC56F6BB23D5
+
+whois:        whois.mynic.my
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mynic.my
+
+created:      2011-10-22
+changed:      2016-11-11
+source:       IANA
+

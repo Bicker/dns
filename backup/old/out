@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.11.1 <<>> ns.irnic.ir
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28926
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.irnic.ir.			IN	A
+
+;; AUTHORITY SECTION:
+ir.			940	IN	SOA	ns1.nic.ir. info.nic.ir. 2017042514 14400 1800 604800 1440
+
+;; Query time: 1 msec
+;; SERVER: 185.49.140.100#53(185.49.140.100)
+;; WHEN: Tue Apr 25 12:11:05 CEST 2017
+;; MSG SIZE  rcvd: 89
+
