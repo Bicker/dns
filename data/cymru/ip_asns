@@ -1,7 +1,7 @@
-Bulk mode;  [2017-06-13 12:09:30 +0000]
+Bulk mode; whois.cymru.com [2017-07-10 18:47:04 +0000]
 NA      | 199.7.90.2       | NA
 NA      | 2001:16a0:1:3002::2                      | NA
-NA      | 82.137.200.85    | NA
+NA      | 2001:16a0:2:3002::2                      | NA
 17      | 128.10.2.5       | PURDUE - Purdue University, US
 25      | 128.32.136.12    | UCB - University of California at Berkeley, US
 25      | 128.32.136.9     | UCB - University of California at Berkeley, US
@@ -42,7 +42,6 @@ NA      | 82.137.200.85    | NA
 42      | 199.249.126.1    | WOODYNET-1 - WoodyNet, US
 42      | 199.249.127.1    | WOODYNET-1 - WoodyNet, US
 42      | 199.4.137.1      | WOODYNET-1 - WoodyNet, US
-42      | 200.108.148.50   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6004:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6007:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6010:ad::1                   | WOODYNET-1 - WoodyNet, US
@@ -50,14 +49,10 @@ NA      | 82.137.200.85    | NA
 42      | 2001:500:14:6012:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6013:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6015:ad::1                   | WOODYNET-1 - WoodyNet, US
-42      | 2001:500:14:6016:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6017:ad::1                   | WOODYNET-1 - WoodyNet, US
-42      | 2001:500:14:6019:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6020:ad::1                   | WOODYNET-1 - WoodyNet, US
-42      | 2001:500:14:6021:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6023:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6024:ad::1                   | WOODYNET-1 - WoodyNet, US
-42      | 2001:500:14:6026:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6027:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6028:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6029:ad::1                   | WOODYNET-1 - WoodyNet, US
@@ -77,7 +72,6 @@ NA      | 82.137.200.85    | NA
 42      | 2001:500:14:6048:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6049:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6051:ad::1                   | WOODYNET-1 - WoodyNet, US
-42      | 2001:500:14:6054:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6055:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6057:ad::1                   | WOODYNET-1 - WoodyNet, US
 42      | 2001:500:14:6061:ad::1                   | WOODYNET-1 - WoodyNet, US
@@ -171,19 +165,15 @@ NA      | 82.137.200.85    | NA
 42      | 204.61.216.13    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.14    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.15    | WOODYNET-1 - WoodyNet, US
-42      | 204.61.216.16    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.17    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.19    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.20    | WOODYNET-1 - WoodyNet, US
-42      | 204.61.216.21    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.23    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.24    | WOODYNET-1 - WoodyNet, US
-42      | 204.61.216.26    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.27    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.28    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.29    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.30    | WOODYNET-1 - WoodyNet, US
-42      | 204.61.216.31    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.32    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.33    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.34    | WOODYNET-1 - WoodyNet, US
@@ -200,8 +190,6 @@ NA      | 82.137.200.85    | NA
 42      | 204.61.216.47    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.48    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.49    | WOODYNET-1 - WoodyNet, US
-42      | 204.61.216.51    | WOODYNET-1 - WoodyNet, US
-42      | 204.61.216.54    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.55    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.57    | WOODYNET-1 - WoodyNet, US
 42      | 204.61.216.60    | WOODYNET-1 - WoodyNet, US
@@ -235,18 +223,12 @@ NA      | 82.137.200.85    | NA
 42      | 2620:171:805:ad2:7068::1                 | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:a00:ad::75                      | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:a00:ad::76                      | WOODYNET-1 - WoodyNet, US
-42      | 2620:171:a01:ad::1                       | WOODYNET-1 - WoodyNet, US
-42      | 2620:171:a01:ad::10                      | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:a01:ad::2                       | WOODYNET-1 - WoodyNet, US
-42      | 2620:171:a01:ad::5                       | WOODYNET-1 - WoodyNet, US
-42      | 2620:171:a01:ad::7                       | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:a01:ad::8                       | WOODYNET-1 - WoodyNet, US
-42      | 2620:171:a01:ad::9                       | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:a02:ad::17                      | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:a03:ad::1                       | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:c00:c::17                       | WOODYNET-1 - WoodyNet, US
 42      | 2620:171:f00:d::17                       | WOODYNET-1 - WoodyNet, US
-42      | 2801:140:10::10                          | WOODYNET-1 - WoodyNet, US
 42      | 2a01:8840:15::17                         | WOODYNET-1 - WoodyNet, US
 42      | 2a01:8840:15::25                         | WOODYNET-1 - WoodyNet, US
 42      | 2a01:8840:15::9                          | WOODYNET-1 - WoodyNet, US
@@ -636,32 +618,26 @@ NA      | 82.137.200.85    | NA
 42      | 72.0.49.2        | WOODYNET-1 - WoodyNet, US
 42      | 72.0.49.5        | WOODYNET-1 - WoodyNet, US
 42      | 72.0.49.7        | WOODYNET-1 - WoodyNet, US
-42      | 72.0.49.8        | WOODYNET-1 - WoodyNet, US
-42      | 72.0.49.9        | WOODYNET-1 - WoodyNet, US
 42      | 72.0.50.17       | WOODYNET-1 - WoodyNet, US
 42      | 72.0.51.1        | WOODYNET-1 - WoodyNet, US
 137     | 193.206.141.46   | ASGARR Consortium GARR, IT
 137     | 194.119.192.34   | ASGARR Consortium GARR, IT
 137     | 2001:760:ffff:ffff::ca                   | ASGARR Consortium GARR, IT
 137     | 2a00:1620:c0:220:194:119:192:34          | ASGARR Consortium GARR, IT
+174     | 149.5.230.10     | COGENT-174 - Cogent Communications, US
 187     | 2001:dd8:7:6075:dc::1                    | DNSCAST-AS - DNScast, US
 187     | 2001:dd8:7:6076:dc::1                    | DNSCAST-AS - DNScast, US
 187     | 203.119.88.75    | DNSCAST-AS - DNScast, US
 187     | 203.119.88.76    | DNSCAST-AS - DNScast, US
 187     | 2620:171:d01:dc::1                       | DNSCAST-AS - DNScast, US
-187     | 2620:171:d01:dc::10                      | DNSCAST-AS - DNScast, US
 187     | 2620:171:d01:dc::5                       | DNSCAST-AS - DNScast, US
 187     | 2620:171:d01:dc::7                       | DNSCAST-AS - DNScast, US
-187     | 2620:171:d01:dc::8                       | DNSCAST-AS - DNScast, US
 187     | 2620:171:d01:dc::9                       | DNSCAST-AS - DNScast, US
 187     | 2620:171:d02:dc::17                      | DNSCAST-AS - DNScast, US
 187     | 2620:171:d03:dc::1                       | DNSCAST-AS - DNScast, US
-187     | 72.42.113.1      | DNSCAST-AS - DNScast, US
 187     | 72.42.113.10     | DNSCAST-AS - DNScast, US
 187     | 72.42.113.5      | DNSCAST-AS - DNScast, US
 187     | 72.42.113.7      | DNSCAST-AS - DNScast, US
-187     | 72.42.113.8      | DNSCAST-AS - DNScast, US
-187     | 72.42.113.9      | DNSCAST-AS - DNScast, US
 187     | 72.42.114.17     | DNSCAST-AS - DNScast, US
 187     | 72.42.115.1      | DNSCAST-AS - DNScast, US
 224     | 128.39.2.22      | UNINETT UNINETT, The Norwegian University & Research Network, NO
@@ -687,7 +663,6 @@ NA      | 82.137.200.85    | NA
 559     | 2001:620:0:ff::57                        | SWITCH Peering requests: , CH
 559     | 2001:620:0:ff::58                        | SWITCH Peering requests: , CH
 559     | 2001:620:0:ff::59                        | SWITCH Peering requests: , CH
-676     | 200.16.99.17     | United Nations Development Programme, AR
 701     | 137.39.1.3       | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
 701     | 198.6.1.114      | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
 701     | 198.6.1.182      | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
@@ -696,12 +671,8 @@ NA      | 82.137.200.85    | NA
 701     | 198.6.1.82       | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
 701     | 198.6.1.83       | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
 701     | 71.163.249.97    | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
-721     | 199.252.143.234  | DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
-721     | 199.252.154.234  | DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 721     | 199.252.155.234  | DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
-721     | 199.252.157.234  | DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 721     | 199.252.162.234  | DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
-721     | 199.252.180.234  | DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 766     | 130.206.1.7      | REDIRIS RedIRIS Autonomous System, ES
 766     | 2001:720:418:caf1::7                     | REDIRIS RedIRIS Autonomous System, ES
 786     | 128.16.5.32      | JANET Jisc Services Limited, GB
@@ -711,10 +682,10 @@ NA      | 82.137.200.85    | NA
 786     | 2001:630:0:47::42                        | JANET Jisc Services Limited, GB
 786     | 2001:630:0:8::14                         | JANET Jisc Services Limited, GB
 786     | 2001:630:0:9::14                         | JANET Jisc Services Limited, GB
-1102    | 194.171.17.10    | SMEERBOEL-AS SMEERBOEL BV, EU
-1102    | 194.171.17.13    | SMEERBOEL-AS SMEERBOEL BV, EU
-1102    | 194.171.17.14    | SMEERBOEL-AS SMEERBOEL BV, EU
-1102    | 194.171.17.15    | SMEERBOEL-AS SMEERBOEL BV, EU
+1102    | 194.171.17.10    | SMEERBOEL-AS SMEERBOEL BV, NL
+1102    | 194.171.17.13    | SMEERBOEL-AS SMEERBOEL BV, NL
+1102    | 194.171.17.14    | SMEERBOEL-AS SMEERBOEL BV, NL
+1102    | 194.171.17.15    | SMEERBOEL-AS SMEERBOEL BV, NL
 1103    | 2001:610:0:800d::10                      | SURFNET-NL SURFnet, The Netherlands, NL
 1103    | 2001:610:0:800d::13                      | SURFNET-NL SURFnet, The Netherlands, NL
 1103    | 2001:610:0:800d::14                      | SURFNET-NL SURFnet, The Netherlands, NL
@@ -786,7 +757,6 @@ NA      | 82.137.200.85    | NA
 1921    | 194.0.25.19      | NICAT NIC.at head office Salzburg, AT
 1921    | 194.0.25.20      | NICAT NIC.at head office Salzburg, AT
 1921    | 194.0.25.21      | NICAT NIC.at head office Salzburg, AT
-1921    | 194.0.25.22      | NICAT NIC.at head office Salzburg, AT
 1921    | 194.0.25.23      | NICAT NIC.at head office Salzburg, AT
 1921    | 2001:678:20::10                          | NICAT NIC.at head office Salzburg, AT
 1921    | 2001:678:20::11                          | NICAT NIC.at head office Salzburg, AT
@@ -799,7 +769,6 @@ NA      | 82.137.200.85    | NA
 1921    | 2001:678:20::19                          | NICAT NIC.at head office Salzburg, AT
 1921    | 2001:678:20::20                          | NICAT NIC.at head office Salzburg, AT
 1921    | 2001:678:20::21                          | NICAT NIC.at head office Salzburg, AT
-1921    | 2001:678:20::22                          | NICAT NIC.at head office Salzburg, AT
 1921    | 2001:678:20::23                          | NICAT NIC.at head office Salzburg, AT
 1930    | 193.136.192.40   | RCCN Fundacao para a Ciencia e a Tecnologia, I.P., PT
 1930    | 193.136.192.64   | RCCN Fundacao para a Ciencia e a Tecnologia, I.P., PT
@@ -887,6 +856,7 @@ NA      | 82.137.200.85    | NA
 3233    | 2a03:5e80:0:5:193:230:31:230             | RNC Romanian Natioanal R&D Network, RO
 3238    | 194.112.0.1      | ALCOM, FI
 3238    | 194.112.0.5      | ALCOM, FI
+3238    | 2a00:5500:1:6::130                       | ALCOM, FI
 3238    | 2a00:5500:1:7::194                       | ALCOM, FI
 3238    | 82.199.184.194   | ALCOM, FI
 3238    | 82.199.186.130   | ALCOM, FI
@@ -902,8 +872,8 @@ NA      | 82.137.200.85    | NA
 3268    | 194.42.1.55      | CYNET, CY
 3268    | 194.42.20.50     | CYNET, CY
 3268    | 194.42.29.1      | CYNET, CY
-3301    | 81.228.10.57     | TELIANET-SWEDEN, SE
-3301    | 81.228.8.16      | TELIANET-SWEDEN, SE
+3301    | 81.228.10.57     | TELIANET-SWEDEN Telia Company, SE
+3301    | 81.228.8.16      | TELIANET-SWEDEN Telia Company, SE
 3320    | 195.243.137.26   | DTAG Internet service provider operations, DE
 3462    | 2001:b000:1e0:c000::11                   | HINET Data Communication Business Group, TW
 3462    | 2001:b000:1e0:c000::7                    | HINET Data Communication Business Group, TW
@@ -1012,7 +982,7 @@ NA      | 82.137.200.85    | NA
 6752    | 194.158.74.9     | ANDORRA, AD
 6752    | 2a02:8060:32fa::a                        | ANDORRA, AD
 6752    | 2a02:8060:32fa::b                        | ANDORRA, AD
-6758    | 195.78.19.216    | AS6758, MC
+6758    | 88.209.82.210    | AS6758, MC
 6846    | 212.1.66.247     | UKRPACK, UA
 6881    | 2a02:38:14::146                          | NIXCZ NIX.CZ z.s.p.o., CZ
 6881    | 93.190.128.138   | NIXCZ NIX.CZ z.s.p.o., CZ
@@ -1092,7 +1062,6 @@ NA      | 82.137.200.85    | NA
 8670    | 195.130.35.5     | UTIC_AUTONOMUS_SYSTEM, BA
 8674    | 185.42.137.99    | NETNOD-IX (former D-GIX), SE
 8674    | 192.36.144.107   | NETNOD-IX (former D-GIX), SE
-8674    | 192.36.144.116   | NETNOD-IX (former D-GIX), SE
 8674    | 192.71.53.53     | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.10   | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.110  | NETNOD-IX (former D-GIX), SE
@@ -1109,7 +1078,6 @@ NA      | 82.137.200.85    | NA
 8674    | 194.146.106.54   | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.58   | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.6    | NETNOD-IX (former D-GIX), SE
-8674    | 194.146.106.62   | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.66   | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.70   | NETNOD-IX (former D-GIX), SE
 8674    | 194.146.106.74   | NETNOD-IX (former D-GIX), SE
@@ -1142,9 +1110,7 @@ NA      | 82.137.200.85    | NA
 8674    | 2001:67c:1010:5::53                      | NETNOD-IX (former D-GIX), SE
 8674    | 2001:67c:1010:6::53                      | NETNOD-IX (former D-GIX), SE
 8674    | 2001:67c:1010:8::53                      | NETNOD-IX (former D-GIX), SE
-8674    | 2001:67c:1010:9::53                      | NETNOD-IX (former D-GIX), SE
 8674    | 2001:67c:1011:1::53                      | NETNOD-IX (former D-GIX), SE
-8674    | 2a01:3f0:0:300::53                       | NETNOD-IX (former D-GIX), SE
 8674    | 2a01:3f0:0:301::53                       | NETNOD-IX (former D-GIX), SE
 8674    | 2a01:3f0:0:302::53                       | NETNOD-IX (former D-GIX), SE
 8674    | 2a01:3f0:0:305::53                       | NETNOD-IX (former D-GIX), SE
@@ -1162,7 +1128,6 @@ NA      | 82.137.200.85    | NA
 8763    | 2a02:568:281::130                        | DENIC-AS Kaiserstr. 75-77, DE
 8763    | 2a02:568:ffff:8::53                      | DENIC-AS Kaiserstr. 75-77, DE
 8763    | 81.91.161.212    | DENIC-AS Kaiserstr. 75-77, DE
-8763    | 81.91.161.80     | DENIC-AS Kaiserstr. 75-77, DE
 8763    | 81.91.161.82     | DENIC-AS Kaiserstr. 75-77, DE
 8763    | 81.91.161.84     | DENIC-AS Kaiserstr. 75-77, DE
 8763    | 81.91.161.88     | DENIC-AS Kaiserstr. 75-77, DE
@@ -1186,6 +1151,7 @@ NA      | 82.137.200.85    | NA
 9158    | 212.88.78.122    | TELENOR_DANMARK_AS, DK
 9249    | 202.80.32.10     | VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited, VU
 9249    | 202.80.32.5      | VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited, VU
+9249    | 202.80.32.7      | VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited, VU
 9249    | 202.80.32.9      | VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited, VU
 9264    | 2001:c08:175:128::175:128                | ASNET Academic Sinica Network, TW
 9264    | 202.169.175.130  | ASNET Academic Sinica Network, TW
@@ -1199,6 +1165,7 @@ NA      | 82.137.200.85    | NA
 9471    | 202.3.225.10     | VINI-PF-AP VINI SAS, PF
 9471    | 202.3.225.20     | VINI-PF-AP VINI SAS, PF
 9484    | 202.131.224.80   | MOBINET-AS-MN Mobinet LLC. AS Mobinet Internet Service Provider, MN
+9541    | 175.107.192.11   | CYBERNET-AP Cyber Internet Services (Pvt) Ltd., PK
 9735    | 2001:dca:2000::cb77:57a4                 | HKDNR-AS-AP Hong Kong Domain Name Registration Co. Ltd, HK
 9735    | 2001:dca:2000::cb77:57da                 | HKDNR-AS-AP Hong Kong Domain Name Registration Co. Ltd, HK
 9735    | 2001:dca:4000::cb77:2a4                  | HKDNR-AS-AP Hong Kong Domain Name Registration Co. Ltd, HK
@@ -1226,8 +1193,7 @@ NA      | 82.137.200.85    | NA
 10139   | 203.87.166.126   | SMARTBRO-PH-AP Smart Broadband, Inc., PH
 10139   | 2407:9800:4000:4e01::17                  | SMARTBRO-PH-AP Smart Broadband, Inc., PH
 10139   | 2407:9800:4000:4e01::18                  | SMARTBRO-PH-AP Smart Broadband, Inc., PH
-10515   | 192.43.172.30    | CLT-NIC - VeriSign Infrastructure & Operations, US
-10515   | 192.54.112.30    | CLT-NIC - VeriSign Infrastructure & Operations, US
+10515   | 2001:500:856e::30                        | CLT-NIC - VeriSign Infrastructure & Operations, US
 10569   | 169.158.128.136  | Red CENIAInternet, CU
 10569   | 169.158.128.88   | Red CENIAInternet, CU
 10569   | 2001:1340:1:128::136                     | Red CENIAInternet, CU
@@ -2163,7 +2129,6 @@ NA      | 82.137.200.85    | NA
 12008   | 156.154.159.97   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.159.98   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.159.99   | ULTRADNS - NeuStar, Inc., US
-12008   | 156.154.169.10   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.169.100  | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.169.17   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.169.2    | ULTRADNS - NeuStar, Inc., US
@@ -2202,7 +2167,6 @@ NA      | 82.137.200.85    | NA
 12008   | 156.154.169.79   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.169.80   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.169.81   | ULTRADNS - NeuStar, Inc., US
-12008   | 156.154.171.10   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.171.100  | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.171.17   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.171.2    | ULTRADNS - NeuStar, Inc., US
@@ -2241,7 +2205,6 @@ NA      | 82.137.200.85    | NA
 12008   | 156.154.171.79   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.171.80   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.171.81   | ULTRADNS - NeuStar, Inc., US
-12008   | 156.154.172.10   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.172.100  | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.172.17   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.172.2    | ULTRADNS - NeuStar, Inc., US
@@ -2280,7 +2243,6 @@ NA      | 82.137.200.85    | NA
 12008   | 156.154.172.79   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.172.80   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.172.81   | ULTRADNS - NeuStar, Inc., US
-12008   | 156.154.173.10   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.173.100  | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.173.17   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.173.2    | ULTRADNS - NeuStar, Inc., US
@@ -2319,7 +2281,6 @@ NA      | 82.137.200.85    | NA
 12008   | 156.154.173.79   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.173.80   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.173.81   | ULTRADNS - NeuStar, Inc., US
-12008   | 156.154.174.10   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.174.100  | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.174.17   | ULTRADNS - NeuStar, Inc., US
 12008   | 156.154.174.2    | ULTRADNS - NeuStar, Inc., US
@@ -2661,7 +2622,6 @@ NA      | 82.137.200.85    | NA
 12008   | 2610:a1:1073::1:50                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1073::1:51                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1073::1:64                       | ULTRADNS - NeuStar, Inc., US
-12008   | 2610:a1:1073::1:a                        | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1073::1b                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1073::1c                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1073::1d                         | ULTRADNS - NeuStar, Inc., US
@@ -2879,7 +2839,6 @@ NA      | 82.137.200.85    | NA
 12008   | 2610:a1:1074::1:50                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1074::1:51                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1074::1:64                       | ULTRADNS - NeuStar, Inc., US
-12008   | 2610:a1:1074::1:a                        | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1074::1b                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1074::1c                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1074::1d                         | ULTRADNS - NeuStar, Inc., US
@@ -3097,7 +3056,6 @@ NA      | 82.137.200.85    | NA
 12008   | 2610:a1:1075::1:50                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1075::1:51                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1075::1:64                       | ULTRADNS - NeuStar, Inc., US
-12008   | 2610:a1:1075::1:a                        | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1075::1b                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1075::1c                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1075::1d                         | ULTRADNS - NeuStar, Inc., US
@@ -3315,7 +3273,6 @@ NA      | 82.137.200.85    | NA
 12008   | 2610:a1:1076::1:50                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1076::1:51                       | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1076::1:64                       | ULTRADNS - NeuStar, Inc., US
-12008   | 2610:a1:1076::1:a                        | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1076::1b                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1076::1c                         | ULTRADNS - NeuStar, Inc., US
 12008   | 2610:a1:1076::1d                         | ULTRADNS - NeuStar, Inc., US
@@ -4763,11 +4720,12 @@ NA      | 82.137.200.85    | NA
 13092   | 147.91.8.6       | UB-AS, RS
 13213   | 77.92.65.172     | UK2NET-AS, GB
 13213   | 77.92.65.174     | UK2NET-AS, GB
-13768   | 66.135.62.20     | PEER1 - Peer 1 Network (USA) Inc., US
+13768   | 66.135.62.20     | PEER1 - Peer 1 Network (USA) Inc., CA
 14061   | 128.199.180.188  | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
 14061   | 128.199.68.43    | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
 14061   | 162.243.211.202  | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
 14061   | 188.166.187.0    | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
+14061   | 2400:6180:0:d0::3d:b001                  | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
 14061   | 46.101.233.168   | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
 14618   | 75.101.129.89    | AMAZON-AES - Amazon.com, Inc., US
 14618   | 75.101.133.101   | AMAZON-AES - Amazon.com, Inc., US
@@ -4777,6 +4735,8 @@ NA      | 82.137.200.85    | NA
 14988   | 168.167.168.37   | BTC-GATE1, BW
 14988   | 168.167.98.218   | BTC-GATE1, BW
 14988   | 168.167.98.226   | BTC-GATE1, BW
+14988   | 2c0f:ff00:0:6::3                         | BTC-GATE1, BW
+14988   | 2c0f:ff00:0:6::5                         | BTC-GATE1, BW
 14988   | 2c0f:ff00:1:3::226                       | BTC-GATE1, BW
 14988   | 2c0f:ff00:1:5::218                       | BTC-GATE1, BW
 15083   | 2607:feb8::5:8                           | INFOLINK-MIA-US - Infolink Global Corporation, US
@@ -4901,6 +4861,7 @@ NA      | 82.137.200.85    | NA
 15135   | 199.19.5.5       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.5.7       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.5.8       | DYN-HC - EveryDNS, LLC, US
+15135   | 199.19.5.9       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.6.1       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.6.10      | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.6.11      | DYN-HC - EveryDNS, LLC, US
@@ -4920,6 +4881,7 @@ NA      | 82.137.200.85    | NA
 15135   | 199.19.6.5       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.6.7       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.6.8       | DYN-HC - EveryDNS, LLC, US
+15135   | 199.19.6.9       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.7.1       | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.7.10      | DYN-HC - EveryDNS, LLC, US
 15135   | 199.19.7.11      | DYN-HC - EveryDNS, LLC, US
@@ -4964,6 +4926,7 @@ NA      | 82.137.200.85    | NA
 15135   | 2001:500:92::4                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:92::5                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:92::7                           | DYN-HC - EveryDNS, LLC, US
+15135   | 2001:500:92::9                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:93::1                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:95::1                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:96::1                           | DYN-HC - EveryDNS, LLC, US
@@ -4984,6 +4947,7 @@ NA      | 82.137.200.85    | NA
 15135   | 2001:500:96::4                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:96::5                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:96::7                           | DYN-HC - EveryDNS, LLC, US
+15135   | 2001:500:96::9                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2001:500:97::1                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2600:2000:3000::1                        | DYN-HC - EveryDNS, LLC, US
 15135   | 2600:2000:3000::2                        | DYN-HC - EveryDNS, LLC, US
@@ -5082,7 +5046,6 @@ NA      | 82.137.200.85    | NA
 15135   | 2a02:e180:4::9                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2a02:e180:5::1                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2a02:e180:6::1                           | DYN-HC - EveryDNS, LLC, US
-15135   | 2a02:e180:7::1                           | DYN-HC - EveryDNS, LLC, US
 15135   | 2a02:e180::1                             | DYN-HC - EveryDNS, LLC, US
 15135   | 2a02:e180::10                            | DYN-HC - EveryDNS, LLC, US
 15135   | 2a02:e180::11                            | DYN-HC - EveryDNS, LLC, US
@@ -5211,7 +5174,6 @@ NA      | 82.137.200.85    | NA
 18210   | 37.209.196.10    | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
 18210   | 37.209.196.3     | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
 18210   | 37.209.196.4     | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
-18210   | 37.209.196.5     | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
 18210   | 37.209.196.6     | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
 18210   | 37.209.196.7     | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
 18210   | 37.209.196.9     | AUSREGISTRY-AS-ANYCAST2 AusRegistry Anycast system, AU
@@ -5219,11 +5181,9 @@ NA      | 82.137.200.85    | NA
 18366   | 202.12.31.141    | APNIC-ANYCAST-AP ANYCAST AS, AU
 18417   | 203.119.3.1      | TWNIC-AS Taiwan Network Information Center, TW
 18840   | 165.98.1.2       | EQUIPOS Y SISTEMAS S.A., NI
+18840   | 186.1.31.8       | EQUIPOS Y SISTEMAS S.A., NI
 18840   | 200.9.187.2      | EQUIPOS Y SISTEMAS S.A., NI
-18840   | 200.9.190.130    | EQUIPOS Y SISTEMAS S.A., NI
 19318   | 91.208.95.22     | NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC, US
-19863   | 190.80.0.41      | Guyana Telephone & Telegraph Co., GY
-19863   | 190.80.0.42      | Guyana Telephone & Telegraph Co., GY
 19911   | 156.154.101.1    | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.101.12   | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.101.25   | NEUSTAR-AS6 - NeuStar, Inc., US
@@ -5409,7 +5369,6 @@ NA      | 82.137.200.85    | NA
 19911   | 156.154.145.97   | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.145.98   | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.145.99   | NEUSTAR-AS6 - NeuStar, Inc., US
-19911   | 156.154.170.10   | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.170.100  | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.170.17   | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 156.154.170.2    | NEUSTAR-AS6 - NeuStar, Inc., US
@@ -5502,7 +5461,6 @@ NA      | 82.137.200.85    | NA
 19911   | 2610:a1:1072::1:50                       | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 2610:a1:1072::1:51                       | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 2610:a1:1072::1:64                       | NEUSTAR-AS6 - NeuStar, Inc., US
-19911   | 2610:a1:1072::1:a                        | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 2610:a1:1072::1b                         | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 2610:a1:1072::1c                         | NEUSTAR-AS6 - NeuStar, Inc., US
 19911   | 2610:a1:1072::1d                         | NEUSTAR-AS6 - NeuStar, Inc., US
@@ -5680,9 +5638,15 @@ NA      | 82.137.200.85    | NA
 20021   | 216.74.32.104    | LNH-INC - HostMySite, US
 20144   | 199.7.83.42      | L-ROOT - ICANN, US
 20144   | 2001:500:9f::42                          | L-ROOT - ICANN, US
+20172   | 192.26.92.30     | -Reserved AS-, ZZ, US
+20172   | 192.31.80.30     | -Reserved AS-, ZZ, US
+20172   | 192.5.6.30       | -Reserved AS-, ZZ, US
 20294   | 212.88.97.132    | MTN-, UG
 20312   | 150.188.228.4    | Fundación Centro Nacional de Innovación Tecnológica (CENIT), VE
 20312   | 150.188.228.5    | Fundación Centro Nacional de Innovación Tecnológica (CENIT), VE
+20431   | 192.43.172.30    | -Reserved AS-, ZZ, US
+20431   | 192.48.79.30     | -Reserved AS-, ZZ, US
+20431   | 192.54.112.30    | -Reserved AS-, ZZ, US
 20454   | 103.44.108.2     | SSASN2 - SECURED SERVERS LLC, US
 20454   | 103.44.108.3     | SSASN2 - SECURED SERVERS LLC, US
 20473   | 108.61.25.122    | AS-CHOOPA - Choopa, LLC, US
@@ -5718,6 +5682,8 @@ NA      | 82.137.200.85    | NA
 23869   | 2001:dce:2000:2::131                     | NZRS-AP NZRS infrastructure for NZ TLD SRS and DNS servers, NZ
 23869   | 202.46.190.130   | NZRS-AP NZRS infrastructure for NZ TLD SRS and DNS servers, NZ
 23869   | 202.46.190.131   | NZRS-AP NZRS infrastructure for NZ TLD SRS and DNS servers, NZ
+23888   | 202.83.164.166   | NTC-AS-AP National Telecommunication Corporation HQ, PK
+23888   | 202.83.164.167   | NTC-AS-AP National Telecommunication Corporation HQ, PK
 23902   | 2001:dc8:1:2::105                        | VNNIC-AS-VN Vietnam Internet network information center (VNNIC), VN
 23902   | 203.119.73.105   | VNNIC-AS-VN Vietnam Internet network information center (VNNIC), VN
 23905   | 130.195.5.12     | VUW-AS-AP Victoria University of Wellington, NZ
@@ -5787,6 +5753,7 @@ NA      | 82.137.200.85    | NA
 24796   | 2001:7f8:10:f00a::6                      | NAMEX-IXP Nautilus Mediterranean Exchange Point, IT
 24796   | 2001:7f8:10:f00a::7                      | NAMEX-IXP Nautilus Mediterranean Exchange Point, IT
 25019   | 37.107.223.170   | SAUDINETSTC-AS, SA
+25019   | 37.107.255.170   | SAUDINETSTC-AS, SA
 25040   | 193.201.42.178   | ITCONSULT-AS, GB
 25152   | 193.0.14.129     | K-ROOT-SERVER Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 25152   | 2001:7fd::1                              | K-ROOT-SERVER Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
@@ -5812,6 +5779,7 @@ NA      | 82.137.200.85    | NA
 26008   | 81.200.69.35     | NOMINUM-SKYE1 - SKYE, US
 26415   | 192.33.14.30     | VERISIGN-INC - VeriSign Global Registry Services, US
 26415   | 2001:503:231d::2:30                      | VERISIGN-INC - VeriSign Global Registry Services, US
+26415   | 209.112.123.30   | VERISIGN-INC - VeriSign Global Registry Services, US
 26415   | 2620:74:27::2:30                         | VERISIGN-INC - VeriSign Global Registry Services, US
 26415   | 2620:74:29::2:30                         | VERISIGN-INC - VeriSign Global Registry Services, US
 26415   | 81.19.194.30     | VERISIGN-INC - VeriSign Global Registry Services, US
@@ -5820,7 +5788,6 @@ NA      | 82.137.200.85    | NA
 26496   | 68.178.129.149   | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
 26710   | 199.4.138.53     | ICANN-ANYCASTED-SERVICES - ICANN, US
 26710   | 2001:500:89::53                          | ICANN-ANYCASTED-SERVICES - ICANN, US
-27678   | 200.1.121.10     | NIC Chile, CL
 27678   | 200.1.123.14     | NIC Chile, CL
 27775   | 200.1.159.148    | Telecommunicationcompany Suriname - TeleSur, SR
 27775   | 200.2.162.30     | Telecommunicationcompany Suriname - TeleSur, SR
@@ -5848,6 +5815,7 @@ NA      | 82.137.200.85    | NA
 29067   | 2001:67c:258::18                         | UATLD-AS UA ccTLD Manager, UA
 29216   | 192.36.148.17    | I-ROOT DNS root name server i.root-servers.net., SE
 29216   | 2001:7fe::53                             | I-ROOT DNS root name server i.root-servers.net., SE
+29256   | 82.137.200.85    | INT-PDN-STE-AS STE PDN Internal AS, SY
 29544   | 41.188.65.193    | MAURITEL, MR
 29544   | 82.151.64.1      | MAURITEL, MR
 29571   | 213.136.100.81   | CITelecom-AS, CI
@@ -5858,7 +5826,6 @@ NA      | 82.137.200.85    | NA
 30132   | 2001:500:60::30                          | ISC-F-AS - Internet Systems Consortium, Inc., US
 30633   | 108.59.8.66      | LEASEWEB-USA-WDC-01 - Leaseweb USA, Inc., US
 30633   | 2604:9a00:2010:a013:2::                  | LEASEWEB-USA-WDC-01 - Leaseweb USA, Inc., US
-30781   | 85.31.217.131    | JAGUAR-AS, FR
 30857   | 2001:67c:130:10::9                       | CITC-AS, SA
 30857   | 2001:67c:130:410::9                      | CITC-AS, SA
 30857   | 86.111.192.9     | CITC-AS, SA
@@ -5880,6 +5847,7 @@ NA      | 82.137.200.85    | NA
 31492   | 83.69.138.230    | UZSCI-AS Uzbek Scientific & Education Network, UZ
 31529   | 185.151.141.1    | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 194.0.0.53       | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
+31529   | 194.0.11.102     | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 194.0.11.104     | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 194.0.11.105     | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 194.0.11.106     | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
@@ -5887,6 +5855,7 @@ NA      | 82.137.200.85    | NA
 31529   | 194.0.11.108     | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 194.246.96.1     | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 2001:678:2::53                           | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
+31529   | 2001:678:e:102::53                       | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 2001:678:e:104::53                       | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 2001:678:e:105::53                       | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
 31529   | 2001:678:e:106::53                       | DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE
@@ -5897,9 +5866,8 @@ NA      | 82.137.200.85    | NA
 31960   | 196.3.96.66      | EMUNET, MZ
 31960   | 196.3.96.67      | EMUNET, MZ
 31960   | 196.3.96.69      | EMUNET, MZ
+31960   | 2001:43f8:a40:1::2                       | EMUNET, MZ
 32475   | 107.6.141.90     | SINGLEHOP-LLC - SingleHop, Inc., US
-33517   | 2001:500:90::87                          | DYNDNS - Dynamic Network Services, Inc., US
-33517   | 2001:500:94::87                          | DYNDNS - Dynamic Network Services, Inc., US
 33576   | 64.119.204.139   | DIG001 - Digicel Jamaica, JM
 33724   | 208.64.68.60     | BIZNESSHOSTING - VOLICO, US
 33788   | 196.29.164.14    | KANARTEL, SD
@@ -5919,7 +5887,6 @@ NA      | 82.137.200.85    | NA
 35908   | 2607:f180:1a02:3::5                      | VPLSNET - Krypt Technologies, US
 35916   | 208.70.79.24     | MULTA-ASN1 - MULTACOM CORPORATION, US
 35916   | 208.70.79.25     | MULTA-ASN1 - MULTACOM CORPORATION, US
-36351   | 119.81.34.90     | SOFTLAYER - SoftLayer Technologies Inc., US
 36351   | 168.1.115.234    | SOFTLAYER - SoftLayer Technologies Inc., US
 36351   | 169.54.247.173   | SOFTLAYER - SoftLayer Technologies Inc., US
 36351   | 198.105.223.67   | SOFTLAYER - SoftLayer Technologies Inc., US
@@ -5959,19 +5926,16 @@ NA      | 82.137.200.85    | NA
 36619   | 69.36.157.30     | CGTLD - VeriSign Global Registry Services, US
 36620   | 192.26.92.30     | EGTLD - VeriSign Global Registry Services, US
 36620   | 192.31.80.30     | EGTLD - VeriSign Global Registry Services, US
-36620   | 192.42.173.30    | EGTLD - VeriSign Global Registry Services, US
 36620   | 192.42.176.30    | EGTLD - VeriSign Global Registry Services, US
 36620   | 192.5.6.30       | EGTLD - VeriSign Global Registry Services, US
 36620   | 192.82.138.30    | EGTLD - VeriSign Global Registry Services, US
 36620   | 198.41.0.4       | EGTLD - VeriSign Global Registry Services, US
 36621   | 192.42.174.30    | DGTLD - VeriSign Global Registry Services, US
-36621   | 192.42.176.30    | DGTLD - VeriSign Global Registry Services, US
 36621   | 192.43.172.30    | DGTLD - VeriSign Global Registry Services, US
 36621   | 192.48.79.30     | DGTLD - VeriSign Global Registry Services, US
 36621   | 192.54.112.30    | DGTLD - VeriSign Global Registry Services, US
+36621   | 192.55.83.30     | DGTLD - VeriSign Global Registry Services, US
 36621   | 192.82.136.30    | DGTLD - VeriSign Global Registry Services, US
-36621   | 192.82.138.30    | DGTLD - VeriSign Global Registry Services, US
-36621   | 209.112.123.30   | DGTLD - VeriSign Global Registry Services, US
 36622   | 192.12.94.30     | IGTLD - VeriSign Global Registry Services, US
 36622   | 192.35.51.30     | IGTLD - VeriSign Global Registry Services, US
 36622   | 192.41.162.30    | IGTLD - VeriSign Global Registry Services, US
@@ -5981,9 +5945,13 @@ NA      | 82.137.200.85    | NA
 36622   | 192.82.136.30    | IGTLD - VeriSign Global Registry Services, US
 36622   | 192.82.138.30    | IGTLD - VeriSign Global Registry Services, US
 36622   | 198.41.0.4       | IGTLD - VeriSign Global Registry Services, US
+36622   | 2001:500:d937::30                        | IGTLD - VeriSign Global Registry Services, US
+36622   | 2001:502:1ca1::30                        | IGTLD - VeriSign Global Registry Services, US
 36622   | 2001:503:a83e::2:30                      | IGTLD - VeriSign Global Registry Services, US
 36622   | 2001:503:ba3e::2:30                      | IGTLD - VeriSign Global Registry Services, US
 36622   | 2001:503:cc2c::2:36                      | IGTLD - VeriSign Global Registry Services, US
+36622   | 2001:503:d414::30                        | IGTLD - VeriSign Global Registry Services, US
+36622   | 2001:503:eea3::30                        | IGTLD - VeriSign Global Registry Services, US
 36622   | 209.112.123.30   | IGTLD - VeriSign Global Registry Services, US
 36623   | 192.42.173.30    | HGTLD - VeriSign Global Registry Services, US
 36623   | 192.42.176.30    | HGTLD - VeriSign Global Registry Services, US
@@ -5993,8 +5961,10 @@ NA      | 82.137.200.85    | NA
 36623   | 192.82.135.30    | HGTLD - VeriSign Global Registry Services, US
 36623   | 192.82.138.30    | HGTLD - VeriSign Global Registry Services, US
 36623   | 2001:500:4431::2:30                      | HGTLD - VeriSign Global Registry Services, US
+36623   | 2001:502:7094::30                        | HGTLD - VeriSign Global Registry Services, US
+36623   | 2001:502:8cc::30                         | HGTLD - VeriSign Global Registry Services, US
+36623   | 2001:503:39c1::30                        | HGTLD - VeriSign Global Registry Services, US
 36623   | 69.36.157.30     | HGTLD - VeriSign Global Registry Services, US
-36623   | 81.19.194.30     | HGTLD - VeriSign Global Registry Services, US
 36624   | 192.12.94.30     | GGTLD - VeriSign Global Registry Services, US
 36624   | 192.35.51.30     | GGTLD - VeriSign Global Registry Services, US
 36624   | 192.42.173.30    | GGTLD - VeriSign Global Registry Services, US
@@ -6013,12 +5983,13 @@ NA      | 82.137.200.85    | NA
 36625   | 2001:500:123::30                         | KGTLD - VeriSign Global Registry Services, US
 36625   | 2001:500:128::30                         | KGTLD - VeriSign Global Registry Services, US
 36625   | 2001:500:12b::30                         | KGTLD - VeriSign Global Registry Services, US
+36625   | 2001:503:83eb::30                        | KGTLD - VeriSign Global Registry Services, US
 36625   | 69.36.157.30     | KGTLD - VeriSign Global Registry Services, US
 36626   | 192.42.175.30    | JGTLD - VeriSign Global Registry Services, US
 36626   | 192.52.178.30    | JGTLD - VeriSign Global Registry Services, US
 36626   | 192.82.137.30    | JGTLD - VeriSign Global Registry Services, US
+36626   | 2001:503:d2d::30                         | JGTLD - VeriSign Global Registry Services, US
 36626   | 69.36.153.30     | JGTLD - VeriSign Global Registry Services, US
-36627   | 192.55.83.30     | AROOT - VeriSign Global Registry Services, US
 36628   | 192.12.94.30     | LGTLD - VeriSign Global Registry Services, US
 36628   | 192.35.51.30     | LGTLD - VeriSign Global Registry Services, US
 36628   | 192.42.174.30    | LGTLD - VeriSign Global Registry Services, US
@@ -6027,6 +5998,7 @@ NA      | 82.137.200.85    | NA
 36628   | 192.55.83.30     | LGTLD - VeriSign Global Registry Services, US
 36628   | 192.82.136.30    | LGTLD - VeriSign Global Registry Services, US
 36628   | 192.82.138.30    | LGTLD - VeriSign Global Registry Services, US
+36628   | 2001:501:b1f9::30                        | LGTLD - VeriSign Global Registry Services, US
 36628   | 209.112.123.30   | LGTLD - VeriSign Global Registry Services, US
 36629   | 192.42.175.30    | MGTLD - VeriSign Global Registry Services, US
 36629   | 192.82.137.30    | MGTLD - VeriSign Global Registry Services, US
@@ -6055,6 +6027,7 @@ NA      | 82.137.200.85    | NA
 36943   | 41.185.30.170    | webafrica, ZA
 36946   | 196.49.0.69      | CIVIX, CI
 36948   | 196.1.4.130      | KENIC, KE
+36948   | 196.1.4.3        | KENIC, KE
 36948   | 198.32.67.9      | KENIC, KE
 36958   | 41.191.121.129   | CWSeychelles-AS, SC
 36969   | 196.45.188.5     | MTL-AS, MW
@@ -6188,7 +6161,6 @@ NA      | 82.137.200.85    | NA
 42909   | 194.0.1.17       | COMMUNITYDNS, GB
 42909   | 194.0.1.18       | COMMUNITYDNS, GB
 42909   | 194.0.1.2        | COMMUNITYDNS, GB
-42909   | 194.0.1.20       | COMMUNITYDNS, GB
 42909   | 194.0.1.22       | COMMUNITYDNS, GB
 42909   | 194.0.1.23       | COMMUNITYDNS, GB
 42909   | 194.0.1.24       | COMMUNITYDNS, GB
@@ -6212,7 +6184,6 @@ NA      | 82.137.200.85    | NA
 42909   | 2001:678:4::10                           | COMMUNITYDNS, GB
 42909   | 2001:678:4::11                           | COMMUNITYDNS, GB
 42909   | 2001:678:4::12                           | COMMUNITYDNS, GB
-42909   | 2001:678:4::14                           | COMMUNITYDNS, GB
 42909   | 2001:678:4::16                           | COMMUNITYDNS, GB
 42909   | 2001:678:4::17                           | COMMUNITYDNS, GB
 42909   | 2001:678:4::18                           | COMMUNITYDNS, GB
@@ -6647,6 +6618,7 @@ NA      | 82.137.200.85    | NA
 52250   | 166.114.1.40     | Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB, BO
 52274   | 200.12.199.1     | NIC.EC S.A., EC
 52274   | 2801:0:60::1                             | NIC.EC S.A., EC
+52304   | 190.124.27.10    | NIC Chile, CL
 52304   | 2001:1398:121:0:190:124:27:10            | NIC Chile, CL
 52306   | 200.16.112.16    | NIC Chile, CL
 54044   | 198.73.186.1     | QITX-INC - QITX INC, CA
@@ -6660,6 +6632,8 @@ NA      | 82.137.200.85    | NA
 55195   | 2620:10a:80aa::100                       | CIRA-DNS - CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet, CA
 55195   | 2620:10a:80aa::130                       | CIRA-DNS - CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet, CA
 55195   | 2620:10a:80eb::254                       | CIRA-DNS - CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet, CA
+55638   | 2001:dd8:12::53                          | APNIC-AS-AP APNIC ANYCAST, AU
+55638   | 203.119.43.53    | APNIC-AS-AP APNIC ANYCAST, AU
 55722   | 203.98.224.66    | CENPAC-AS-AP Cenpac Net Inc, NR
 55722   | 203.98.225.9     | CENPAC-AS-AP Cenpac Net Inc, NR
 55722   | 2403:f600:0:224::66                      | CENPAC-AS-AP Cenpac Net Inc, NR
@@ -6862,19 +6836,16 @@ NA      | 82.137.200.85    | NA
 133165  | 128.199.180.188  | DIGITALOCEAN-AS-AP Digital Ocean, Inc., SG
 133165  | 128.199.68.43    | DIGITALOCEAN-AS-AP Digital Ocean, Inc., SG
 133165  | 188.166.187.0    | DIGITALOCEAN-AS-AP Digital Ocean, Inc., SG
-133165  | 2400:6180:0:d0::3d:b001                  | DIGITALOCEAN-AS-AP Digital Ocean, Inc., SG
 134386  | 120.29.253.8     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.192.10    | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.192.3     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.192.4     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
-134386  | 37.209.192.5     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.192.6     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.192.7     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.192.9     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.194.10    | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.194.3     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.194.4     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
-134386  | 37.209.194.5     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.194.6     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.194.7     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
 134386  | 37.209.194.9     | AUSREGISTRY-AS-ANYCAST5 AusRegistry Anycast system, ES
@@ -6897,12 +6868,10 @@ NA      | 82.137.200.85    | NA
 134390  | 2001:dcd:3::3                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:3::5                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:3::6                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
-134390  | 2001:dcd:3::7                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:3::9                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:4::10                           | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:4::3                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:4::4                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
-134390  | 2001:dcd:4::5                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:4::6                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:4::7                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 2001:dcd:4::9                            | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
@@ -6910,14 +6879,12 @@ NA      | 82.137.200.85    | NA
 134390  | 37.209.194.10    | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.194.3     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.194.4     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
-134390  | 37.209.194.5     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.194.6     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.194.7     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.194.9     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.196.10    | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.196.3     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.196.4     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
-134390  | 37.209.196.5     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.196.6     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.196.7     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
 134390  | 37.209.196.9     | AUSREGISTRY-AS-ANYCAST9 AusRegistry Anycast system, NL
@@ -6932,14 +6899,12 @@ NA      | 82.137.200.85    | NA
 134391  | 37.209.194.10    | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.194.3     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.194.4     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
-134391  | 37.209.194.5     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.194.6     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.194.7     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.194.9     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.196.10    | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.196.3     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.196.4     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
-134391  | 37.209.196.5     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.196.6     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.196.7     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
 134391  | 37.209.196.9     | AUSREGISTRY-AS-ANYCAST10 AusRegistry Anycast system, US
@@ -6954,14 +6919,12 @@ NA      | 82.137.200.85    | NA
 134395  | 37.209.192.10    | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.192.3     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.192.4     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
-134395  | 37.209.192.5     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.192.6     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.192.7     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.192.9     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.194.10    | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.194.3     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.194.4     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
-134395  | 37.209.194.5     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.194.6     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.194.7     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
 134395  | 37.209.194.9     | AUSREGISTRY-AS-ANYCAST14 AusRegistry Anycast system, CA
@@ -6975,7 +6938,6 @@ NA      | 82.137.200.85    | NA
 134396  | 37.209.196.10    | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
 134396  | 37.209.196.3     | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
 134396  | 37.209.196.4     | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
-134396  | 37.209.196.5     | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
 134396  | 37.209.196.6     | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
 134396  | 37.209.196.7     | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
 134396  | 37.209.196.9     | AUSREGISTRY-AS-ANYCAST15 AusRegistry Anycast system, JP
@@ -6990,14 +6952,12 @@ NA      | 82.137.200.85    | NA
 134399  | 37.209.192.10    | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.192.3     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.192.4     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
-134399  | 37.209.192.5     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.192.6     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.192.7     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.192.9     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.194.10    | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.194.3     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.194.4     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
-134399  | 37.209.194.5     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.194.6     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.194.7     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
 134399  | 37.209.194.9     | AUSREGISTRY-AS-ANYCAST18 AusRegistry Anycast system, US
@@ -7032,15 +6992,13 @@ NA      | 82.137.200.85    | NA
 197000  | 193.0.9.62       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.63       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.65       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
-197000  | 193.0.9.67       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.68       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
-197000  | 193.0.9.69       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.70       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.71       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.72       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.73       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.76       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
-197000  | 193.0.9.79       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
+197000  | 193.0.9.78       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.82       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.83       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 193.0.9.84       | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
@@ -7075,14 +7033,13 @@ NA      | 82.137.200.85    | NA
 197000  | 2001:67c:e0::62                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::63                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::65                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
-197000  | 2001:67c:e0::67                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::68                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::70                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::71                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::72                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::73                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::76                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
-197000  | 2001:67c:e0::79                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
+197000  | 2001:67c:e0::78                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::82                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::83                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
 197000  | 2001:67c:e0::84                          | RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), EU
@@ -7393,15 +7350,9 @@ NA      | 82.137.200.85    | NA
 262178  | 2001:13e0:5d0:101::162                   | Pontificia Universidad Catolica Madre y Maestra (PUCMM), DO
 262178  | 2001:13e0:85d0:101::226                  | Pontificia Universidad Catolica Madre y Maestra (PUCMM), DO
 262178  | 2001:13e0:85d0:101::228                  | Pontificia Universidad Catolica Madre y Maestra (PUCMM), DO
-262249  | 200.108.145.50   | Secretaria Legal y Tecnica, AR
-262249  | 200.108.147.50   | Secretaria Legal y Tecnica, AR
-262249  | 2801:140:11::50                          | Secretaria Legal y Tecnica, AR
-262249  | 2801:140::10                             | Secretaria Legal y Tecnica, AR
 263683  | 163.178.8.2      | Universidad de Costa Rica, CR
 263779  | 200.107.82.100   | Academia Nacional de Ciencias, CR
 263779  | 2001:13c7:7004:1::d100                   | Academia Nacional de Ciencias, CR
-264798  | 170.238.66.50    | Secretaria Legal y Tecnica, AR
-264798  | 2801:140:eeee::50                        | Secretaria Legal y Tecnica, AR
 327719  | 196.49.1.87      | sixp, GM
 394353  | 192.228.79.201   | BROOT-AS - B.Root-Server-OPS, US
 394353  | 2001:500:200::b                          | BROOT-AS - B.Root-Server-OPS, US
